@@ -1,4 +1,3 @@
-# state file generated using paraview version 5.11.1
 import paraview
 paraview.compatibility.major = 5
 paraview.compatibility.minor = 11
